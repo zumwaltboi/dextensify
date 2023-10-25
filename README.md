@@ -18,7 +18,7 @@ An explanation is available on [my website](https://ading.dev/blog/posts/dextens
 |Blocksi|`ghlpmldmjjhmdgmneoaibbegkjjbonbk`|
 |Fortiguard|`igbgpehnbmhgdgjbhkkpedommgmfbeao`|
 |Cisco Umbrella|`jcdhmojfecjfmbdpchihbeilohgnbdci`|
-|ContentKeeper|`jdogphakondfdmcanpapfahkdomaicfa`|
+|ContentKeeper|`odoanpnonilogofggaohhkdkdgbhdljp`|
 |Securly Classroom|`jfbecfmiegcjddenjhlbhlikcbfmnafd`|
 |Hapara|`kbohafcopfpigkjdimdcdgenlhkmhbnc`|
 |iboss|`kmffehbidlalibfeklaefnckpidbodff`|
